@@ -1,0 +1,75 @@
+#sample {
+	margin-top:15%;
+	margin-left:60px;
+	
+}
+.card-img {
+	height:600px;
+}
+.h1 {
+	font-size:50px;
+}
+.s {
+	font-size:30px;
+}
+#nav
+{
+	font-size: 30px;
+	color:#ffcc00;
+}
+#word {
+	font-size:20px;
+	font-weight:;
+	margin-right:10px;
+}
+#services
+{
+	text-align:center;
+}
+#icon
+{
+	font-size:100px;
+  
+	border-radius:50%;
+	width:140px;
+	text-align:center;
+	margin-right: 110px;
+}
+.port {
+	background-color:#f2f2f2;
+}
+
+#cardimg {
+	height:250px;
+	width:370px;
+}
+.a {
+	margin-left:20px;
+}
+
+#cardheight {
+ height:30px;
+ margin-right:40px;
+ width:200px;
+}
+#cardim
+{
+	margin-top:100px;
+}
+
+#card-img1 {
+	height:200px;
+}
+#team {
+	background-color:#f2f2f2;
+}
+i{
+	color:black;
+}
+.pat{
+	font-size: 20px;
+	
+} 
+.logo {
+	margin-left:200px;
+}
